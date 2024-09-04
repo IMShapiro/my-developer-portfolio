@@ -1,11 +1,12 @@
 import '../assets/styles/Projects.css';
 
+//My temporary projects db will switch to SQL/Mongo later
 const projects = [
   {
     title: "Snake Game",
     description: "A classic Snake game built with JavaScript, HTML5, and CSS3. The game includes features like increasing difficulty and a high score tracker.",
     technologies: ["JavaScript", "HTML5", "CSS3"],
-    image: "public/images/snake-project.png",
+    image: "/images/snake-project.png",
     liveDemo: "https://snake-game.pages",
     github: "https://github.com/IMShapiro/snake-game"
   },
@@ -13,7 +14,7 @@ const projects = [
     title: "E-commerce Website",
     description: "A fully functional e-commerce website with features like product management, shopping cart, and secure payment gateway integration.",
     technologies: ["React", "Node.js", "Firebase"],
-    image: "public/images/ecommerce-project.jpeg",
+    image: "/images/ecommerce-project.jpeg",
     liveDemo: "https://packaging-guy.pages.dev/",
     github: ""
   },
