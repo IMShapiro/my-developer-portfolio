@@ -1,0 +1,15 @@
+
+/* Custom Navbar Styles */
+.navbar-dark .navbar-brand,
+.navbar-dark .nav-link {
+    color: #e0f7fa;
+}
+
+.navbar-dark .nav-link:hover {
+    color: #00bfa5;
+}
+
+/* Overriding Bootstrap's default active link color */
+.navbar-dark .nav-link.active {
+    color: #00e676;
+}
