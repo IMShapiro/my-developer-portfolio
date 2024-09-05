@@ -29,7 +29,7 @@ const Home = () => {
                     </div>
                     <div className="col-md-6">
                         <p>Hello! I'm Shepherd, a passionate and dedicated web developer based in Johannesburg. With a strong background in creating visually appealing and highly functional websites, I specialize in both frontend and backend development. My journey into web development started from a love for technology and a desire to bring ideas to life through code.</p>
-                        <p>As a web developer, I have honed my skills in HTML5, CSS3, JavaScript, and various frontend frameworks like React. On the backend, I'm proficient in Node.js and Express.js, with experience in Firebase for database management. My toolkit also includes design tools like Figma, and I'm adept at using Git and GitHub for version control, ensuring smooth collaboration and efficient project management.</p>
+                        <p>As a web developer, I have honed my skills in HTML5, CSS3, JavaScript, and various frontend frameworks like React. On the backend, I'm proficient in Node.js with experience in Firebase for database management. My toolkit also includes design tools like Figma, and I'm adept at using Git and GitHub for version control, ensuring smooth collaboration and efficient project management.</p>
                     </div>
                 </div>
                 <div className="row mt-5">
