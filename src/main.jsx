@@ -2,12 +2,12 @@ import React from "react";
 import ReactDOM from 'react-dom/client'
 import './index.css'
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import Root from "./routes/Root";
-import Home from "./routes/Home";
-import About from "./routes/About";
-import Services from "./routes/Services"
-import Projects from "./routes/Projects";
-import Contact from "./routes/Contact";
+import Root from "./Root";
+import Home from "./pages/Home";
+import About from "./pages/About";
+import Services from "./pages/Services"
+import Projects from "./pages/Projects";
+import Contact from "./pages/Contact";
 
 const router = createBrowserRouter([
   {

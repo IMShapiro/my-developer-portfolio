@@ -1,4 +1,4 @@
-import Contact from "../routes/Contact";
+import Contact from "./Contact";
 import Projects from "./Projects";
 
 const Home = () => {
